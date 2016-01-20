@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Lingqiang Kong
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: All things Data
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/4252148?v=3
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: konglq@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: klq/klq.github.io
   instagram:
   linkedin:
   pinterest:
