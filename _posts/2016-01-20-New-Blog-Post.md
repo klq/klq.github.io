@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: first post
 ---
 
 
